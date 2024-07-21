@@ -1,0 +1,7 @@
+D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\bin\Release\net8.0\publish\AWS.Lambda.SQSTrigger.deps.json
+D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\bin\Release\net8.0\publish\AWS.Lambda.SQSTrigger.runtimeconfig.json
+D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\bin\Release\net8.0\publish\AWS.Lambda.SQSTrigger.pdb
+D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\bin\Release\net8.0\publish\Amazon.Lambda.SQSEvents.dll
+D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\bin\Release\net8.0\publish\AWS.Lambda.SQSTrigger.dll

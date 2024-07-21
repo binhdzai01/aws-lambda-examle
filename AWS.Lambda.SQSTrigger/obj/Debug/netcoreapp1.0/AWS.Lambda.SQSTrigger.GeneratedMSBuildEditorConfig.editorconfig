@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AWS.Lambda.SQSTrigger
+build_property.ProjectDir = D:\C#\BinhHD.Lambda\AWS.Lambda.SQSTrigger\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

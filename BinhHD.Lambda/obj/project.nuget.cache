@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0zvYl1Xpon5R27dHwVh5UrOh0IsZFAxgvsSuRZyS+VMIOAIwhXBHIWddSO0Ac+gxhyf2/kZ/XuTYnKSDVxSGiA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\BinhHD.Lambda\\BinhHD.Lambda\\BinhHD.Lambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.0\\amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\awssdk.core\\3.7.304.30\\awssdk.core.3.7.304.30.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.305.1\\awssdk.dynamodbv2.3.7.305.1.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.4\\microsoft.netcore.app.crossgen2.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

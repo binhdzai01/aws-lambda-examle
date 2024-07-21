@@ -1,0 +1,10 @@
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Lambda-Annotations.deps.json
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Lambda-Annotations.runtimeconfig.json
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Lambda-Annotations.pdb
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Amazon.Lambda.Annotations.dll
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\AWSSDK.Core.dll
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+D:\C#\BinhHD.Lambda\Lambda-Annotations\bin\Release\net8.0\publish\Lambda-Annotations.dll
